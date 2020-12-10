@@ -1,0 +1,19 @@
+{
+  "name": "beepbox23",
+  "version": "1.0.0",
+  "description": "An offline executable for Beepbox23",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Just-a-Unity-Dev/Beepbox2.3-offline/",
+  "keywords": [
+    "beepbox",
+    "music"
+  ],
+  "author": "Just-a-Unity-Dev",
+  "license": "Apache",
+  "devDependencies": {
+    "electron": "^11.0.4"
+  }
+}

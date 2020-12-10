@@ -1,0 +1,2 @@
+# Beepbox2.3-offline
+An offline executable for Beepbox 2.3 (https://www.beepbox.co/2_3/#6n31s0kbl00e03t7m0a7g0fj7i0r1o3210T0w1f1d1c0h0v0T0w1f1d1c0h0v0T0w1f1d1c0h0v0T2w1d1v0b4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4h4p1oFzM6ym3h1xG30xE30R000000)
